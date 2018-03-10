@@ -9,4 +9,5 @@ Restart your computer
 Method 2:
 
 Kill With TaskManager
+
 ![Taskmanager](https://i.imgur.com/JREJVW5.png)
