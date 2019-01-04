@@ -1,4 +1,4 @@
-# HypercamPrank
+# HypercamWatermark
 Ever want to prank your friends with an "Unregistered HyperCam 2" watermark on their screen?
 ![Hypercam Watermark on the screen](https://i.imgur.com/72mNTyB.png)
 # How to remove?
